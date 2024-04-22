@@ -1,18 +1,14 @@
 # Pedro Roceti Pache
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PacheRoceti&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+Stats
+-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PacheRoceti&theme=apprentice&)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PacheRoceti&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**PacheRoceti/pacheroceti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sobre mim
+-
+Estudo no Centro Universitário Senac, e estou 3º Semestre de Sistemas de Informação. Me interesso em novas tecnologias e gosto do mundo da programação, estou disposto sempre a aprender coisas novas.
+
