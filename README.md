@@ -5,7 +5,7 @@ Sobre mim
 -
 Estudo no Centro Universitário Senac, e estou 4º Semestre de Sistemas de Informação. Me interesso em novas tecnologias e gosto do mundo da programação, estou disposto sempre a aprender coisas novas.
 
-Tenho contato com as seguintes Linguagens: Java; MySQL; HTML; CSS; JavaScript.
+Tenho contato com as seguintes Tecnologias: Java; MySQL; HTML; CSS; JavaScript.
 
 ---
 Stats
